@@ -1,0 +1,27 @@
+Student Management System
+Number of students: 5
+Name of student 1: Muneeb
+Timetable: English Maths Physics Chemistry Biology
+Fees Paid: 1
+Marks: 98
+Teachers: teacher1 teacher2 teacher3 teacher4 teacher5 
+Name of student 2: Misha
+Timetable: English Maths Physics Chemistry Biology
+Fees Paid: 1
+Marks: 99
+Teachers: teacher1 teacher2 teacher3 teacher4 teacher5 
+Name of student 3: Awais
+Timetable: English Maths Physics Chemistry Biology
+Fees Paid: 1
+Marks: 92
+Teachers: teacher1 teacher2 teacher3 teacher4 teacher5 
+Name of student 4: Abdullah
+Timetable: English Maths Physics Chemistry Biology
+Fees Paid: 1
+Marks: 100
+Teachers: teacher1 teacher2 teacher3 teacher4 teacher5 
+Name of student 5: Hira
+Timetable: English Maths Physics Chemistry Biology
+Fees Paid: 0
+Marks: 25
+Teachers: teacher1 teacher2 teacher3 teacher4 teacher5 
